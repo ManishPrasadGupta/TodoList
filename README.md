@@ -53,13 +53,12 @@ npm install
 4. bStart the server and the client:
 
 - In the server directory:
-
-bash
-Copy code
-npm start
-In the client directory:
 ```bash
-npm start
+npm run dev
+```
+- In the client directory:
+```bash
+npm run dev
 ```
 5. Open the application in your browser at http://localhost:3000.
 
